@@ -9,6 +9,6 @@ This repository contains basic C programs for beginners to understand fundamenta
 
 1. Compile the program using GCC:
    ```bash
-   gcc even_odd.c
-
+   gcc even_odd
+   
 
