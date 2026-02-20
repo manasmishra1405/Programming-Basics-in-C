@@ -2,13 +2,18 @@
 
 This repository contains basic C programs for beginners to understand fundamental programming concepts.
 
+## SECTIONS:
+- ARRAYS
+- BASICS
+
+  
 ## Programs Included
 - Even and Odd Number Checker
+- factorial checker
+- palindrome checker
+- prime number checker
+- spy number
 
-## How to Run (Windows)
 
-1. Compile the program using GCC:
-   ```bash
-   gcc even_odd
    
 
