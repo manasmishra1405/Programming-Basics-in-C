@@ -7,11 +7,11 @@ int main()
 
     if(num % 2 == 0)
     {
-        printf("%d is an even number.\n", num);
+        printf("%d IS AN EVEN NUMBER.\n", num);
     }
     else
         {
-            printf("%d is an odd number.\n", num);
+            printf("%d IS AN ODD NUMBER.\n", num);
         }
     return 0;
 }
