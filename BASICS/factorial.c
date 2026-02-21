@@ -9,6 +9,6 @@ int main()
     {
         fact = fact * (i+1);
     }
-    printf("Factorial of %d is %d\n", n, fact);
+    printf("Factorial of %d is %d \n", n, fact);
     return 0;
 }
