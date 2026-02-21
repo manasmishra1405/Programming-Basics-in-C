@@ -22,11 +22,11 @@ int main()
     }
     if(isPrime)
     {
-        printf("%d is a prime number", num);
+        printf("%d is a PRIME number", num);
     }
     else
     {
-        printf("%d is not a prime number", num);
+        printf("%d is not a PRIME number", num);
     }
      return 0;
 }
